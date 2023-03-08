@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_navigation.xml"
+    app:startDestination="@id/tizimgaKirish">
+    <fragment
+        android:id="@+id/tizimgaKirish"
+        android:name="xmf.developer.registration.fragments.TizimgaKirish"
+        android:label="fragment_tizimga_kirish"
+        tools:layout="@layout/fragment_tizimga_kirish" />
+    <fragment
+        android:id="@+id/royhatdanOtish"
+        android:name="xmf.developer.registration.fragments.RoyhatdanOtish"
+        android:label="fragment_royhatdan_otish"
+        tools:layout="@layout/fragment_royhatdan_otish" />
+    <fragment
+        android:id="@+id/royhatdanOtganFoyFragment"
+        android:name="xmf.developer.registration.fragments.RoyhatdanOtganFoyFragment"
+        android:label="fragment_royhatdan_otgan_foy"
+        tools:layout="@layout/fragment_royhatdan_otgan_foy" />
+</navigation>

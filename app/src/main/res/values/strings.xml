@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tizimga_kirish">Tizimga kirish</string>
+    <string name="telefon_raqam">Telefon raqam</string>
+    <string name="parol">Parol</string>
+    <string name="ro_yhatdan_o_tish">Ro\'yhatdan o\'tish</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="royhatdantish">Ro\'yhatdan o\'tish</string>
+    <string name="ism_familiya">Ism, familiya</string>
+    <string name="manzil">Manzil</string>
+    <string name="abbosbek_miruzoqov">Abbosbek Miruzoqov</string>
+    <string name="_998915522425">+998915522425</string>
+    <string name="_998">+998</string>
+    <string name="_98">+998</string>
+</resources>
